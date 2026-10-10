@@ -1,0 +1,5 @@
+===== STOCK PORTFOLIO =====
+Stock: TSLA
+Price per share: $250
+Quantity: 200
+Total Investment: $50000
